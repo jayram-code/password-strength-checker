@@ -41,7 +41,7 @@ java PasswordStrengthChecker
 4. Review improvement suggestions
 5. Type 'exit' to quit
 
-## 📸 Example Output
+##  Example Output
 
 ```
 ╔════════════════════════════════════════╗
